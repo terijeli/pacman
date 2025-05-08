@@ -1,6 +1,6 @@
 Pacman Project
 This project implements a Finite State Machine (FSM) to control ghost behavior in a Pacman style game. 
-It was developed by Jelinkova Tereza for the KOL304CR Games and AI module, Coventry University.
+It was developed by Jelinkova Tereza for the KOL304CR Games and AI module, Coventry University. Please note the video could not be uploaded here since it has over 25MB (GitHub limit) and can be found as the appendix material in Wiseflow.
 
 Features
 - FSM states: chase, scatter, frightened and eaten
