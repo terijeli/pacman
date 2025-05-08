@@ -27,3 +27,6 @@ Structure
 - `states.py` - speaks for ghost behaviors as separate FSM state classes: `ChaseState`, `ScatterState`, and `FrightenedState`. Each of them contains movement logic specific to that behavior
 
 - `game_logic.py` - controls the high-level game logic, especially switching the ghost’s state every 30 seconds and invoking the behavior logic from FSM states
+
+How to run the code?
+Open `main.py` and in the new terminal, write "python3 main.py".
